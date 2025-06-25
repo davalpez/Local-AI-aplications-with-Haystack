@@ -5,7 +5,7 @@
 This project is built using an open-source stack for local LLM development:
 
 ![Local LLMs via LM Studio](https://img.shields.io/badge/Local_LLMs-LM_Studio-7B3FE4?logo=lmstudio&logoColor=white&style=flat-square)
-![RAG Pipeline by Haystack](https://img.shields.io/badge/RAG_Pipeline-Haystack-FBCB0A?logo=haystack&logoColor=black&style=flat-square)
+![RAG Pipeline by Haystack](https://img.shields.io/badge/Haystack-2.14-green?logo=haystack&logoColor=black&style=flat-square)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg?style=flat-square&logo=python&logoColor=white)
 
 ## Acknowledgements
