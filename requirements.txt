@@ -1,0 +1,8 @@
+python-dotenv==1.1.0
+haystack-ai==2.14.2
+haystack-experimental==0.10.0
+sentence-transformers==4.1.0
+transformers==4.52.3
+gradio==5.34.2
+huggingface_hub==0.31.4
+cohere-haystack==4.2.1
