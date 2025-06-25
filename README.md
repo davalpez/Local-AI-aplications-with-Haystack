@@ -9,8 +9,8 @@
 
 
 
-> Hands‑on notebooks that show how to build  Retrieval‑Augmented Generation (RAG) and agent pipelines with [Haystack 2](https://docs.haystack.deepset.ai/).\
-> All models run on your own hardware—no API keys required. Some other API services with free trial keys are used, but are optional.
+Hands‑on notebooks that show how to build  Retrieval‑Augmented Generation (RAG) and agent pipelines with [Haystack 2](https://docs.haystack.deepset.ai/).\
+All models run on your own hardware—no API keys required. Some other API services with free trial keys are used, but are optional.
 
 ## List of content
 
